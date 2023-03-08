@@ -1,0 +1,29 @@
+*{
+    font-size : 10px;
+    margin : 0px;
+    padding : 0px;
+    font-family: sans-serif;
+}
+h3 {
+    color : rgb(15, 13, 143) !important;
+    font-size : 3rem;
+}
+h2{
+    font-size : 5rem;
+}
+.text-title {
+    color : red;
+    text-align : center;
+}
+#bang-noiquy{
+        border :  5px solid rgb(36, 14, 206);
+        margin : 50px;
+        padding : 5px;
+}
+#bang-noiquy > div{
+    border: 5px solid rgb(13, 174, 120);
+    padding : 50px;
+}
+#trich-dan{
+    text-align: center;
+}
